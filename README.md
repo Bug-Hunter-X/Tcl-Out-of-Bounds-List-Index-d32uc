@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Tcl programming: accessing a list element with an out-of-bounds index.  The `bug.tcl` file contains the erroneous code, while `bugSolution.tcl` provides a corrected version.  The problem arises from attempting to access an index that is beyond the valid range of the list, which results in an error.
